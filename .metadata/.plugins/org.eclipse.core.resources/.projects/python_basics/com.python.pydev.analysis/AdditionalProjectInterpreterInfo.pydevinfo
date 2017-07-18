@@ -1,0 +1,46 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Workspaces\ai_ws\.metadata\.plugins\org.eclipse.core.resources\.projects\python_basics\com.python.pydev.analysis\v2_indexcache
+foreach|1471060386529829000|C:\Workspaces\ai_ws\python_basics\src\foreach.py
+shop|1471060386431726000|C:\Workspaces\ai_ws\python_basics\src\shop.py
+shopTest|1471060386602405000|C:\Workspaces\ai_ws\python_basics\src\shopTest.py
+listcomp2|1471060386486776000|C:\Workspaces\ai_ws\python_basics\src\listcomp2.py
+listcomp|1471060386638947000|C:\Workspaces\ai_ws\python_basics\src\listcomp.py
+quickSort|1471060386731044000|C:\Workspaces\ai_ws\python_basics\src\quickSort.py
+helloWorld|1471415308269339000|C:\Workspaces\ai_ws\python_basics\src\helloWorld.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+2=foreach
+1=shopTest
+3=shop
+7=listcomp2
+6=listcomp
+8=FruitShop
+5=quickSort
+4=helloWorld
+9=FruitShop.__init__
+-- END DICTIONARY
+-- START TREE 1
+12
+app|1|applePrice!11@
+ber|1|berkeleyShop!11@
+fru|4|fruits!19@FruitShop!25@fruitPrices!11@fruitPrices!19@
+fun|1|func!34@
+lst|1|lst!43@
+m|1|m!35@
+num|1|nums!51@
+odd|2|oddNums!51@oddNumsPlusOne!51@
+oth|4|otherFruitShop!11@otherFruitPrices!11@otherPrice!11@otherName!11@
+qui|1|quickSort!42@
+sho|1|shopName!11@
+str|1|strings!59@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!8&26@
+__s|1|__str__!8&26@
+fru|1|fruitPrices!9&27@
+get|3|getPriceOfOrder!8&26@getCostPerPound!8&26@getName!8&26@
+nam|1|name!9&27@
+-- END TREE

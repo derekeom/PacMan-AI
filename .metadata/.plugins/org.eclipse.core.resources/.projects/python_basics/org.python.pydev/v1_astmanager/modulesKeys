@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+foreach|C:\Workspaces\ai_ws\python_basics\src\foreach.py
+helloWorld|C:\Workspaces\ai_ws\python_basics\src\helloWorld.py
+listcomp|C:\Workspaces\ai_ws\python_basics\src\listcomp.py
+listcomp2|C:\Workspaces\ai_ws\python_basics\src\listcomp2.py
+quickSort|C:\Workspaces\ai_ws\python_basics\src\quickSort.py
+shop|C:\Workspaces\ai_ws\python_basics\src\shop.py
+shopTest|C:\Workspaces\ai_ws\python_basics\src\shopTest.py

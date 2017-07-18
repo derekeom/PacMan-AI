@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+addition|C:\Workspaces\ai_ws\tutorial\src\addition.py
+autograder|C:\Workspaces\ai_ws\tutorial\src\autograder.py
+buyLotsOfFruit|C:\Workspaces\ai_ws\tutorial\src\buyLotsOfFruit.py
+grading|C:\Workspaces\ai_ws\tutorial\src\grading.py
+projectParams|C:\Workspaces\ai_ws\tutorial\src\projectParams.py
+shop|C:\Workspaces\ai_ws\tutorial\src\shop.py
+shopSmart|C:\Workspaces\ai_ws\tutorial\src\shopSmart.py
+testClasses|C:\Workspaces\ai_ws\tutorial\src\testClasses.py
+testParser|C:\Workspaces\ai_ws\tutorial\src\testParser.py
+textDisplay|C:\Workspaces\ai_ws\tutorial\src\textDisplay.py
+tutorialTestClasses|C:\Workspaces\ai_ws\tutorial\src\tutorialTestClasses.py
+util|C:\Workspaces\ai_ws\tutorial\src\util.py

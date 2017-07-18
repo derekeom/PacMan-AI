@@ -1,0 +1,4 @@
+-l mediumCorners -p AStarCornersAgent -z 0.5
+-l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+-l bigSearch -p ClosestDotSearchAgent -z .5
+-l trickySearch -p AStarFoodSearchAgent

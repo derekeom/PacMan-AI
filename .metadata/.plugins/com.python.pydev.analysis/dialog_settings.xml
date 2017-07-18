@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SearchIndexPage">
+		<item value="5" key="HISTORY_SIZE"/>
+		<section name="HISTORY4">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="1" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="reinforcement" key="scopeData"/>
+			<item value="isterminal" key="textPattern"/>
+			<item value="*" key="filenamePattern"/>
+		</section>
+		<section name="HISTORY2">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="1" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="reinforcement" key="scopeData"/>
+			<item value="max_action" key="textPattern"/>
+			<item value="*" key="filenamePattern"/>
+		</section>
+		<section name="HISTORY3">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="1" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="reinforcement" key="scopeData"/>
+			<item value="question2" key="textPattern"/>
+			<item value="*" key="filenamePattern"/>
+		</section>
+		<section name="HISTORY0">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="1" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="search" key="scopeData"/>
+			<item value="asList()" key="textPattern"/>
+			<item value="*" key="filenamePattern"/>
+		</section>
+		<section name="HISTORY1">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="1" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="search" key="scopeData"/>
+			<item value="grid" key="textPattern"/>
+			<item value="*" key="filenamePattern"/>
+		</section>
+	</section>
+</section>
